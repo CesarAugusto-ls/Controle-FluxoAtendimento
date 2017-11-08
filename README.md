@@ -20,6 +20,7 @@ O software utiliza a hora do computador para determinar qual área o funcionári
 
 
 Os nomes dos funcionários são exibidos na pagina web.
+
 Código da pagina web que lê os arquivos .TXT:
 
 <html>
